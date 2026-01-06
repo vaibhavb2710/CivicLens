@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607478642065",
+    "project_id": "civic-lens-app",
+    "storage_bucket": "civic-lens-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607478642065:android:2e8309444e5878a6c15630",
+        "android_client_info": {
+          "package_name": "com.example.civic_lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUon1kt_6tHIFhdp-_SwM1UK_kG3u5ADA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
